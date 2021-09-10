@@ -1,0 +1,25 @@
+C:\Users\128968\Desktop>java HexAndDecConverter
+
+
+
+
+Options: H=hex2dec, D=dec2hex, Q=quit
+Enter an option: h
+
+Please enter a hex number: a4
+
+The decimal value for the hex number a4 is 164
+
+Options: H=hex2dec, D=dec2hex, Q=quit
+Enter an option: d
+
+Please enter a decimal number: 86
+
+The hex value for the decimal number 86 is 56
+
+Options: H=hex2dec, D=dec2hex, Q=quit
+Enter an option: q
+
+Goodbye
+
+C:\Users\128968\Desktop>
